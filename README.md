@@ -22,3 +22,12 @@ A C# WinForms multiplayer game where players compete to guess words letter by le
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/guess-the-word-game.git
+2. Open the solution in Visual Studio.
+
+3. Build the solution.
+
+4. Start the Server project first.
+
+5. Start one or more instances of the Client project.
+
+6. Enjoy playing!
